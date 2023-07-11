@@ -9,3 +9,4 @@
   * `helm install`
   * `helm pull --destination <PATH>`
 * `oci-cli` 설치가 필요한 것을 몰랐음.
+* `tolerations` 에 대해 정확히 몰랐음.
