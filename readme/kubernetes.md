@@ -1,14 +1,5 @@
 # Kubernetes
 
-## Intro
-
-* Why
-  * Karpenter 리서치 과정에서 Kubernetes 관련 기본 개념이 명확하지 않아, 정확한 리서치가 불가능하여 간단하게 정리하기 위해 작성
-* Reference
-  * https://kubernetes.io/ko/docs
-
-
-
 
 
 ## Kubernetes cluster
@@ -81,3 +72,8 @@ CRI는 Container runtime interface로 컨테이너 실행을 담당하는 소프
 
 이어서...
 
+
+
+## Reference
+
+* https://kubernetes.io/ko/docs
